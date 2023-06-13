@@ -7,9 +7,9 @@ En este repositorio se encontrara unicamente el logaritmo que resuelve la parte 
 **Para poder probar el código asegúrate de:**
 
 1. Tener instalado [Go](https://go.dev/) en tu máquina.
-2. Clonar el repositorio en tu máquina: `git clone https://github.com/juanjgfredes/meli-changelle-logaritmo.git`.
+2. Clonar el repositorio en tu máquina: `git clone https://github.com/juanjgfredes/meli-challenge-logaritmo.git`.
 3. Para probar el código sin compilar, escribe en la terminal: `go run main.go`.
-4. Para compilar y probar, en la termina escribe `go build` y para ejecutar escribe `./ejercicio-triangulos`.
+4. Para compilar y probar, en la termina escribe `go build` y para ejecutar escribe `./meli-challenge-logaritmo`.
 
 # Enunciado
 
